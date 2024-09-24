@@ -2,8 +2,8 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Angular
 - 💞️ I’m not looking to collaborate
-- 📫 How to reach me arms
-- 😄 Pronouns: what
+- 📫 How to reach me: arms
+- 😄 Pronouns: I'm not pronouns, I'm Charlie
 - ⚡ Fun fact: True
 
 <!---
